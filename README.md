@@ -25,7 +25,7 @@
 
 [![](https://josefacchin.com/wp-content/uploads/2020/02/como-quitar-el-fondo-de-una-imagen.png)](https://josefacchin.com/como-quitar-el-fondo-de-una-imagen/)
 
-![](IMAGEN\dragonite.jpg)
+![](https://github.com/msanchezs02/repositorio-ejercicio/blob/main/IMAGEN/dragonite.jpg?raw=true)
 
 [Enlace al archivo md](ejercicio.md)
 
